@@ -1,14 +1,14 @@
 /*
  * Code Written by 
  * @David Kweku Amissah Orhin 
- * Student ID 20522026
+ * 
  * 
  *  A Receipt printing program that shows a user how much change they are due to take.
  */
 
 //Importing the scanner Class
 import java.util.Scanner;
-public class  EssentialStore {
+public class  EssentialStore1{
     
 // Unicode character for Ghanaian Cedi
 char cediSign = '\u20B5';
