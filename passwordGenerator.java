@@ -1,7 +1,7 @@
 /*
  * Code Written by 
  * @David Kweku Amissah Orhin 
- * Student ID 20522026
+ * 
  * 
  *  This is a program that generates random passwords
  */
